@@ -1,3 +1,3 @@
-streamlit
-pandas
-openpyxl
+streamlit==1.33.0 # Use recent versions
+pandas==2.1.4   # Or try pandas>=2.0
+openpyxl==3.1.2
