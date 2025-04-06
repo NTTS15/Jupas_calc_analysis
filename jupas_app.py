@@ -948,7 +948,7 @@ def generate_d_day_report(jupas_dataframe, student_choices_dataframe, target_stu
 
 # --- Streamlit App Layout (Main Execution) ---
 st.set_page_config(layout="wide")
-st.title("JUPAS Calculator & Analysis Tool BETA1 by TTSoultion")
+st.title("JUPAS Calculator & Analysis Tool BETA1 by TTSolution")
 
 # --- Initialize Session State ---
 if 'jupas_data_loaded' not in st.session_state:
