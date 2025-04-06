@@ -1,0 +1,12 @@
+name: jupas_calc_env  # Choose a name for your environment
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10  # Or 3.9, 3.11
+  - streamlit
+  - pandas
+  - openpyxl
+
